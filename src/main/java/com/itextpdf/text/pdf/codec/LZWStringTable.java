@@ -44,7 +44,7 @@
  * nuclear facility. 
  *
  * $Revision: 5075 $
- * $Date: 2012-02-27 17:36:18 +0100 (ma, 27 feb 2012) $
+ * $Date: 2012-02-27 17:36:18 +0100 (Mon, 27 Feb 2012) $
  * $State: Exp $
  */
 
