@@ -89,7 +89,6 @@
                     <include>**/*.afm</include>
                     <include>**/*.html</include>
                     <include>**/*.txt</include>
-<include>**/*.cer</include>
                 </includes>
             </resource>
         </resources>
